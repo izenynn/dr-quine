@@ -1,5 +1,6 @@
 # This file is taken from the Linux kernel source tree
 # All credit goes to the Linux kernel developers
+# https://github.com/torvalds/linux/blob/master/.clang-format
 
 # SPDX-License-Identifier: GPL-2.0
 #
