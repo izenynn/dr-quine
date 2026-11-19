@@ -92,3 +92,16 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Build
+build/
+/C/Colleen
+/C/Grace
+/C/Sully
+/ASM/Colleen
+/ASM/Grace
+/ASM/Sully
+# Generated files
+tmp_Colleen
+Grace_kid.*
+Sully_*
