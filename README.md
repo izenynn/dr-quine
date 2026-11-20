@@ -2,7 +2,7 @@
 
 ## Status
 
-- Status: done
+- Status: finished
 - Result: 100%
 - Observations: (null)
 
@@ -48,5 +48,4 @@ The binaries (`Colleen`, `Grace`, `Sully`) are created inside `C/` and `ASM/`. `
 
 ##
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-assembly.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
